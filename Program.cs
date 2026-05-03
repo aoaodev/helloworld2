@@ -19,3 +19,5 @@ foreach (var f in Friends)
 {
     Console.WriteLine(f);
 }
+
+Console.WriteLine("So this is it, huh?");
