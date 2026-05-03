@@ -21,3 +21,4 @@ foreach (var f in Friends)
 }
 
 Console.WriteLine("So this is it, huh?");
+Console.WriteLine("... and another one.");
